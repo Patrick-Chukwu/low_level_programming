@@ -1,4 +1,6 @@
-.DEFAULT_GOAL := generate
+
+.PHONY: all say_hello generate clean
+all: say_hello generate
 say_hello:
 	@echo "Hello World"
 
