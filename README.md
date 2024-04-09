@@ -1,2 +1,7 @@
 # low_level_programming
-A compilation of low level programming
+This repostory is a compilation of low level programming projects.
+
+Projects includes:
+- C
+- Bash
+- etc.
